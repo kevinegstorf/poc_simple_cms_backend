@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## start server
+```
+rails s
+```
 
-Things you may want to cover:
+##Adding nodes
+go to:
+```
+/admin
+```
+##exposed at
 
-* Ruby version
+```
+/api/nodes
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
